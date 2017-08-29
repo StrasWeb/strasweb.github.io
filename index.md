@@ -15,3 +15,8 @@ Cependant, certaines d'entre elles ont été reprises par d'autres organismes et
 
 * [Mark Nightingale](https://www.marknightingale.net/fr/hebergement/), ancien membre de Strasweb et consultant web à Strasbourg, propose de l'**hébergement professionnel pour des petites et moyennes entreprises**.
 * [Alsace Réseau Neutre](https://arn-fai.net/) est une association strasbourgeoise qui propose, entre autre, un **service de VPS**.
+
+## Prestations
+
+* L'agence [Pixelsass](https://pixelsass.fr/) fournit un service similaire à ce que proposait StrasWeb : elle encadre des jeunes diplômés afin qu'ils travaillent sur des missions d'intégration ou de développement web.
+* L'association [Quai n°10](https://quai10.org/) rassemble un réseau de professionnels indépendants travaillant dans la création web.
