@@ -18,5 +18,5 @@ Cependant, certaines d'entre elles ont été reprises par d'autres organismes et
 
 ## Prestations
 
-* L'agence [Pixelsass](https://pixelsass.fr/) fournit un service similaire à ce que proposait StrasWeb : elle encadre des jeunes diplômés afin qu'ils travaillent sur des missions d'intégration ou de développement web.
-* L'association [Quai n°10](https://quai10.org/) rassemble un réseau de professionnels indépendants travaillant dans la création web.
+* L'agence [Pixelsass](https://pixelsass.fr/) fournit un service similaire à ce que proposait StrasWeb : elle encadre des jeunes diplômés afin qu'ils travaillent sur des **missions d'intégration ou de développement web**.
+* L'association [Quai n°10](https://quai10.org/) rassemble un **réseau de professionnels indépendants** travaillant dans la création web.
